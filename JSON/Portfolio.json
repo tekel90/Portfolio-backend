@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Proyecto 1",
+        "description": "Utilice HTML y CSS para trabajar con estilos",
+        "image": "https://i.bb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "link" : "http://cv.giulianaolmo.guixon.com/"
+    },
+    {
+        "name": "Proyecto 2",
+        "description": "Utilice HTML y CSS para trabajar con estilos",
+        "image": "https://i.bb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "link" : "http://cv.giulianaolmo.guixon.com/"
+    }
+]
